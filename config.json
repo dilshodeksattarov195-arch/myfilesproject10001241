@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeretringify",
+        "uuid": 9910626,
+        "checksum": "p3n92j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
